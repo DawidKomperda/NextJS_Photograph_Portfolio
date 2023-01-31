@@ -9,5 +9,5 @@ module.exports = {
       'images.unsplash.com'
     ]
   },
-  target: 'serverless',
+  // target: 'serverless',
 }
