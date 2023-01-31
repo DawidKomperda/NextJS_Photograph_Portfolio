@@ -8,5 +8,6 @@ module.exports = {
     domains: [
       'images.unsplash.com'
     ]
-  }
+  },
+  target: 'serverless',
 }
